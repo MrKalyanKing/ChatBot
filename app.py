@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 
-key="AIzaSyAUypWVg79VQ5BXtUAmtuPygYLfMyL2QKo"
+key="AIzaSyAUypWVg79VQ5BXtUAmtuPyg"
 
 # configure
 
